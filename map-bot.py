@@ -230,4 +230,4 @@ def numbers(num):
     return mmm
     
 
-client.run('NzEyMzIzNzE5Njc4Mzk0NDI5.XsQh9w.P1_R2qB59GnPn1TTND5VUrCw-Vk')
+client.login(process.env.BOT_TOKEN);
